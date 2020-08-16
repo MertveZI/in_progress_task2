@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pulkovo-286514",
+  "private_key_id": "eca6b0bd686e1c32b54f80c56e0c80e7c9fcf9a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDh8zCEs0O2ABSe\nMSdpVLb3JlLH5HKhUJAGvFwj0Vo7txWW0ireAPPMKl/sbMErKMySFosAZrVP1qA7\nJCojKxye+XNiwE7JS6ys0CWtMQSJRBJXhgXbWvtPHB4AiuwI/ryVlPPzYPSJwUMO\ngEMX1O//xYv/awQPiyxATPMqYyn4MolSilGvRizotWMf61Ah7NfCI76oFd/uJT6F\nnSsUV9uKEuHteJMN9nP8dLYC9C6hqM2qflvevTt4ebOL7IdkjPTl9/trIiXKxIHq\n6SO9/Xg1OUZ1xWYDa0T+lHM0TCDo9KS9xjLWyw+U8W0mpQzsenWK58VcRb7+UHNC\n34jiI9arAgMBAAECggEAAlU/2jbqyDs7XMqx2ixDBGwi2tK3NGJMHdbUxWQY7HEp\nMwZx/cV0ggckvnX9G5IMQDjb/Du31EMK8ckBBhfLde5hBNZGNWlzsQ4oGNz3NNu6\nDZ0oJtk5DNRreB+hwjzHr2AvI/1OjmtiRHa0z/nHJgutKIByQbE2EUJH29FNx+Wf\nYj3zcNE9Zgz8i8IB+3ounWv0u0R86P2viNY+6ie/urIV1032L5BAirhqLXtrUSJg\n/VjRKUs5ZulJwxvvh6m8WdBai51DcnMPYBJ2nXzdTayroDJllL311FLI3GE9KR+k\nux4dRfsOqhrokMRJaO+lBNlactorLGY1FtzdxZQnDQKBgQD5bNFCtnvetIZFJ3uK\nUhcJ6FjRHYgYXJ62f5DGSXwyxMzERlH0Ni8OoWRPk4grpWBIJatKX9vzXq7yu5pk\nqFrsCUm6yDM4UkGu3hOYgT5fmSp9AmuqBgy/gwta5ZQJvT2TnUE1h4Ub+9ASFe3X\noHbMuc1jQmUTzSG+kkT3TQFvnwKBgQDn5/TKJxeY+P6jeeOW4T0FdZgj3to0EiRu\nTIP67fhbBX6yEusTeHMlSY1RUNmggU2LvRX/2BsW2dbkg1TktW3wEFeJhxLYEdLe\nHYOPPLDs5lxjrk35PeH+aHNhYrRx+Ppz0lk6RaCXpuk87Fh0j9QeA8qHIkg+kF0r\noiVJQXdNdQKBgDLbmFOlB97iKlqhcVRD5sSzZqDFB8IH6KjHnAqCY1uquyHuQLmt\n7qxqBh0ftO1JXDd5ztJsd1nJXZzK2fFaTqfAQRNfzOnYA+KXD6HSAJjXj01MGA3k\nC+dk3gTbuPK/bnXR48D5cA/Dqap2ZDfKVU7rN9DcceW2twG3q25NelR7AoGAQ1wg\nwkcwl4JblGhnLwAllVxe4KxufQl4A4G+JDjTFr0128ua9IDcEUyX+7KcQ/7K43f8\n19+RnsWPobh0BCqe0Egu5QeS9afXtCSmfgiG64jN9TY/99F9v0Pfn73n4+MJ/HJw\n8Hgg+WvF+6g62UCdwEohnbbbfTC5n17traWSXbECgYEAtiCqjyaptJbqCmYRF/hl\nBFrrPAi5wxk1x+m+oEAFid9WEgC7nHzizAJeAIIqOun+EPIYvtVwAJw4Ujo7DECy\nrUnI4O78FHxtpm+wVg8peY0vEstsQAYdpeUpw9f0nUvFA01Bb8mQH14jNG3LrsGH\nS/Zbl2XHnVrV/YE7czS3Q1w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pulkovo@pulkovo-286514.iam.gserviceaccount.com",
+  "client_id": "106329526265327958282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pulkovo%40pulkovo-286514.iam.gserviceaccount.com"
+}
